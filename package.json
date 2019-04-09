@@ -1,0 +1,10 @@
+{
+  "name": "depot-test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "uuidv4": "4.0.0",
+    "wolkenkit": "thenativeweb/wolkenkit#5d848ddc8fac5ab1bf3677ebe054d4c9bfa9ffcb",
+    "wolkenkit-depot-client": "github:thenativeweb/wolkenkit-depot-client-js#3a981e17cb2344fe50cff1a3ea6ddc1c186f5861"
+  }
+}
